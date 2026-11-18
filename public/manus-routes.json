@@ -1,0 +1,76 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Entrada — login e exploração"
+    },
+    {
+      "path": "/explorar",
+      "title": "Explorar a confeitaria"
+    },
+    {
+      "path": "/entrar",
+      "title": "Entrar"
+    },
+    {
+      "path": "/cadastro",
+      "title": "Criar conta"
+    },
+    {
+      "path": "/admin/entrar",
+      "title": "Acesso administrativo"
+    },
+    {
+      "path": "/acesso-negado",
+      "title": "Acesso restrito"
+    },
+    {
+      "path": "/cliente",
+      "title": "Minha vitrine"
+    },
+    {
+      "path": "/cliente/catalogo",
+      "title": "Vitrine"
+    },
+    {
+      "path": "/cliente/bolos-prontos",
+      "title": "Bolos prontos"
+    },
+    {
+      "path": "/cliente/produtos/:slug",
+      "title": "Detalhe do produto"
+    },
+    {
+      "path": "/cliente/favoritos",
+      "title": "Favoritos"
+    },
+    {
+      "path": "/cliente/perfil",
+      "title": "Meu perfil"
+    },
+    {
+      "path": "/admin",
+      "title": "Painel administrativo"
+    },
+    {
+      "path": "/admin/produtos",
+      "title": "Produtos"
+    },
+    {
+      "path": "/admin/produtos/novo",
+      "title": "Novo produto"
+    },
+    {
+      "path": "/admin/produtos/:id/editar",
+      "title": "Editar produto"
+    },
+    {
+      "path": "/admin/categorias",
+      "title": "Categorias"
+    },
+    {
+      "path": "/admin/usuarios",
+      "title": "Usuários"
+    }
+  ]
+}
